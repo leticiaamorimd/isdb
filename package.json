@@ -1,7 +1,7 @@
 {
   "name": "ismb",
   "version": "1.0.0",
-  "description": "",
+  "description": "Project Title ISDB Music database",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
@@ -20,5 +20,13 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.15"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leticiaamorimd/isdb.git"
+  },
+  "bugs": {
+    "url": "https://github.com/leticiaamorimd/isdb/issues"
+  },
+  "homepage": "https://github.com/leticiaamorimd/isdb#readme"
 }
