@@ -1,5 +1,5 @@
 # Project Title
-ISDB Music database
+ Music database
 
 # Summary:
    1.Project description
