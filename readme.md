@@ -1,17 +1,17 @@
-# Project Title
+## Project Title
  Music database
 
-# Summary:
+# # Summary:
    1.Project description
 
    2. List of technologies used
 
    3. Issues 
 
-# Project description: 
+##  Project description: 
 A music API that allows people to register, login and access the music database.
 
-# List of technologies used
+##  List of technologies used
 Mongodb
 
 Mongoose
@@ -26,6 +26,6 @@ Postman
 
 JW Passport 
 
-# Issues
-
+## Issues
+ 
 Deployment doesn't see to go through. 
